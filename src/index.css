@@ -28,7 +28,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background: #ffffff url('src/assets/img/UIR.jpg') center center/cover no-repeat;
+  background: #ffffff url('../assets/img/UIR.jpg') center center/cover no-repeat;
   
 }
 
