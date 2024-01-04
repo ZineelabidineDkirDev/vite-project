@@ -28,7 +28,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background: #ffffff url('../../assets/img/UIR.jpg') center center/cover no-repeat;
+  background: #ffffff url('vite.svg') center center/cover no-repeat;
   
 }
 
